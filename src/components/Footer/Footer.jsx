@@ -12,7 +12,7 @@ const Footer = () => {
                   <ion-icon name="bag"></ion-icon>
                   <h1>Multimart</h1>
               </div>
-              <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Auctor libero id et, in gravida. Sit diam duis mauris nulla cursus. Erat et lectus vel ut sollicitudin elit at amet.</p>
+              <p>MultiMart is your one-stop destination for all shopping needs. We offer a wide range of products, from electronics to fashion, with seamless browsing, secure payments, and fast delivery. Experience hassle-free online shopping with us!</p>
             </Col>
             <Col md={3} sm={5} className='box'>
               <h2>About Us</h2>
@@ -37,9 +37,10 @@ const Footer = () => {
             <Col md={3} sm={5} className='box'>
               <h2>Contact Us</h2>
               <ul>
-                <li>70 Washington Square South, New York, NY 10012, United States </li>
-                <li>Email: uilib.help@gmail.com</li>
-                <li>Phone: +1 1123 456 780</li>
+              <li>Hitech City, Madhapur, Hyderabad, Telangana 500081, India</li>
+<li>Email: multimart.help@gmail.com</li>
+<li>Phone: +91 98765 43210</li>
+
               </ul>
             </Col>
           </Row>

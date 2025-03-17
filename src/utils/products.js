@@ -93,7 +93,7 @@ export const discoutProducts = [
     productName: "Stone and Beam Westview ",
     imgUrl: productImg01,
     category: "sofa",
-    price: 193,
+    price: 8999,
     discount:30,
     shortDesc:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur iure quas illo voluptates labore tempore!",
@@ -112,7 +112,7 @@ export const discoutProducts = [
     productName: "Rivet Bigelow Modern ",
     imgUrl: productImg02,
     category: "sofa",
-    price: 253,
+    price: 12500,
     discount:20,
     shortDesc:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur iure quas illo voluptates labore tempore!",
@@ -135,7 +135,7 @@ export const discoutProducts = [
     productName: "Baltsar Chair",
     imgUrl: productImg08,
     category: "chair",
-    price: 89,
+    price: 4999,
     discount:15,
     shortDesc:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur iure quas illo voluptates labore tempore!",
@@ -158,7 +158,7 @@ export const discoutProducts = [
     productName: "Helmar Chair",
     imgUrl: productImg09,
     category: "chair",
-    price: 112,
+    price: 11112,
     discount:35,
     shortDesc:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur iure quas illo voluptates labore tempore!",
@@ -181,7 +181,7 @@ export const discoutProducts = [
     productName: "Realme 8",
     imgUrl: phone03,
     category: "mobile",
-    price: 599,
+    price: 9999,
     discount:10,
     shortDesc:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur iure quas illo voluptates labore tempore!",
@@ -204,7 +204,7 @@ export const discoutProducts = [
     productName: "One Plus Nord",
     imgUrl: phone04,
     category: "mobile",
-    price: 799,
+    price: 13799,
     discount:5,
     shortDesc:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur iure quas illo voluptates labore tempore!",
@@ -231,7 +231,7 @@ export const products = [
     productName: "Stone and Beam Westview ",
     imgUrl: productImg01,
     category: "sofa",
-    price: 193,
+    price:  8999,
     shortDesc:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur iure quas illo voluptates labore tempore!",
     description:
@@ -250,7 +250,7 @@ export const products = [
     productName: "Rivet Bigelow Modern ",
     imgUrl: productImg02,
     category: "sofa",
-    price: 253,
+    price: 12500,
     shortDesc:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur iure quas illo voluptates labore tempore!",
     description:
@@ -273,7 +273,7 @@ export const products = [
     productName: "Amazon Brand Modern Sofa",
     imgUrl: productImg03,
     category: "sofa",
-    price: 173,
+    price: 4999,
     shortDesc:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur iure quas illo voluptates labore tempore!",
     description:
@@ -295,7 +295,7 @@ export const products = [
     productName: "Rivet Bigelow Modern ",
     imgUrl: productImg02,
     category: "sofa",
-    price: 253,
+    price: 11111,
     shortDesc:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur iure quas illo voluptates labore tempore!",
     description:
@@ -317,7 +317,7 @@ export const products = [
     productName: "Fllufy Sheep Sofa",
     imgUrl: productImg04,
     category: "sofa",
-    price: 163,
+    price: 9999,
     shortDesc:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur iure quas illo voluptates labore tempore!",
     description:
@@ -340,7 +340,7 @@ export const products = [
     productName: "Faux Velvet Sofa",
     imgUrl: productImg05,
     category: "sofa",
-    price: 163,
+    price: 13799,
     shortDesc:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur iure quas illo voluptates labore tempore!",
     description:
@@ -363,7 +363,7 @@ export const products = [
     productName: "Fllufy Sheep Sofa",
     imgUrl: productImg06,
     category: "sofa",
-    price: 163,
+    price: 19500,
     shortDesc:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur iure quas illo voluptates labore tempore!",
     description:
@@ -385,7 +385,7 @@ export const products = [
     productName: "Sakarias Armchair",
     imgUrl: productImg07,
     category: "chair",
-    price: 99,
+    price: 35099,
     shortDesc:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur iure quas illo voluptates labore tempore!",
     description:
@@ -408,7 +408,7 @@ export const products = [
     productName: "Modern Arm Sofa",
     imgUrl: productImg007,
     category: "sofa",
-    price: 173,
+    price: 25000,
     shortDesc:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur iure quas illo voluptates labore tempore!",
     description:
@@ -431,7 +431,7 @@ export const products = [
     productName: "Baltsar Chair",
     imgUrl: productImg08,
     category: "chair",
-    price: 89,
+    price: 18599,
     shortDesc:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur iure quas illo voluptates labore tempore!",
     description:
@@ -454,7 +454,7 @@ export const products = [
     productName: "Helmar Chair",
     imgUrl: productImg09,
     category: "chair",
-    price: 112,
+    price: 11112,
     shortDesc:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur iure quas illo voluptates labore tempore!",
     description:
@@ -477,7 +477,7 @@ export const products = [
     productName: "Apple iPhone 12 Pro",
     imgUrl: phone01,
     category: "mobile",
-    price: 799,
+    price: 78899,
     shortDesc:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur iure quas illo voluptates labore tempore!",
     description:
@@ -499,7 +499,7 @@ export const products = [
     productName: "Sakarias Armchair",
     imgUrl: productImg10,
     category: "chair",
-    price: 99,
+    price: 10099,
     shortDesc:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur iure quas illo voluptates labore tempore!",
     description:
@@ -521,7 +521,7 @@ export const products = [
     productName: "Apple iPhone 12 Max",
     imgUrl: phone02,
     category: "mobile",
-    price: 799,
+    price: 109900,
     shortDesc:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur iure quas illo voluptates labore tempore!",
     description:
@@ -544,7 +544,7 @@ export const products = [
     productName: "Realme 8",
     imgUrl: phone03,
     category: "mobile",
-    price: 599,
+    price:9999,
     shortDesc:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur iure quas illo voluptates labore tempore!",
     description:
@@ -567,7 +567,7 @@ export const products = [
     productName: "One Plus Nord",
     imgUrl: phone04,
     category: "mobile",
-    price: 799,
+    price: 13799,
     shortDesc:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur iure quas illo voluptates labore tempore!",
     description:
@@ -590,7 +590,7 @@ export const products = [
     productName: "Apple iPhone 13 Pro",
     imgUrl: phone05,
     category: "mobile",
-    price: 899,
+    price: 113905,
     shortDesc:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur iure quas illo voluptates labore tempore!",
     description:
@@ -613,7 +613,7 @@ export const products = [
     productName: "Samsung Galaxy S22",
     imgUrl: phone06,
     category: "mobile",
-    price: 699,
+    price:  34495,
     shortDesc:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur iure quas illo voluptates labore tempore!",
     description:
@@ -636,7 +636,7 @@ export const products = [
     productName: "Rolex Watch",
     imgUrl: watch01,
     category: "watch",
-    price: 299,
+    price:  392100,
     shortDesc:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur iure quas illo voluptates labore tempore!",
     description:
@@ -659,7 +659,7 @@ export const products = [
     productName: "Timex Easy Reader Watch",
     imgUrl: watch02,
     category: "watch",
-    price: 299,
+    price: 9025,
     shortDesc:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur iure quas illo voluptates labore tempore!",
     description:
@@ -682,7 +682,7 @@ export const products = [
     productName: "Rolex Watch",
     imgUrl: watch03,
     category: "watch",
-    price: 299,
+    price: 392100,
     shortDesc:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur iure quas illo voluptates labore tempore!",
     description:
@@ -705,7 +705,7 @@ export const products = [
     productName: "Apple Watch",
     imgUrl: watch04,
     category: "watch",
-    price: 399,
+    price: 46900,
     shortDesc:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur iure quas illo voluptates labore tempore!",
     description:
@@ -728,7 +728,7 @@ export const products = [
     productName: "Beat Studio Wireless",
     imgUrl: wireless01,
     category: "wireless",
-    price: 199,
+    price: 28900,
     shortDesc:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur iure quas illo voluptates labore tempore!",
     description:
@@ -751,7 +751,7 @@ export const products = [
     productName: "Beat EP Headphones",
     imgUrl: wireless03,
     category: "wireless",
-    price: 199,
+    price: 8000 ,
     shortDesc:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur iure quas illo voluptates labore tempore!",
     description:
@@ -773,7 +773,7 @@ export const products = [
     productName: "Black Headphones",
     imgUrl: wireless02,
     category: "wireless",
-    price: 169,
+    price: 1099,
     shortDesc:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur iure quas illo voluptates labore tempore!",
     description:
@@ -795,7 +795,7 @@ export const products = [
     productName: "Bluetooth Headphones",
     imgUrl: wireless04,
     category: "wireless",
-    price: 139,
+    price: 1099,
     shortDesc:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur iure quas illo voluptates labore tempore!",
     description:
@@ -817,7 +817,7 @@ export const products = [
     productName: "Beat Studio Wireless",
     imgUrl: wireless01,
     category: "wireless",
-    price: 199,
+    price: 5999,
     shortDesc: "High-quality wireless headphones with deep bass and noise cancellation.",
     description: "Experience high-fidelity sound with active noise cancellation and a comfortable fit.",
     reviews: [
@@ -831,7 +831,7 @@ export const products = [
     productName: "Beat EP Headphones",
     imgUrl: wireless03,
     category: "wireless",
-    price: 199,
+    price: 1599,
     shortDesc: "Lightweight on-ear headphones with powerful sound and deep bass.",
     description: "Enjoy your favorite music with immersive sound quality and adjustable fit.",
     reviews: [
@@ -845,7 +845,7 @@ export const products = [
     productName: "Black Headphones",
     imgUrl: wireless02,
     category: "wireless",
-    price: 169,
+    price: 1669,
     shortDesc: "Sleek black headphones with long battery life and noise isolation.",
     description: "Premium sound with deep bass, perfect for music lovers and gamers.",
     reviews: [
@@ -859,7 +859,7 @@ export const products = [
     productName: "Bluetooth Headphones",
     imgUrl: wireless04,
     category: "wireless",
-    price: 139,
+    price: 1339,
     shortDesc: "Affordable Bluetooth headphones with powerful bass and clear sound.",
     description: "Lightweight and comfortable, ideal for workouts and daily commutes.",
     reviews: [
@@ -873,7 +873,7 @@ export const products = [
     productName: "Wireless Bass Headphones",
     imgUrl: wireless01,
     category: "wireless",
-    price: 149,
+    price: 1449,
     shortDesc: "Deep bass headphones with crystal clear sound quality.",
     description: "Perfect for bass lovers, offering immersive audio experience.",
     reviews: [
@@ -887,7 +887,7 @@ export const products = [
     productName: "Bluetooth Headphones",
     imgUrl: wireless04,
     category: "wireless",
-    price: 139,
+    price: 1339,
     shortDesc: "Affordable Bluetooth headphones with powerful bass and clear sound.",
     description: "Lightweight and comfortable, ideal for workouts and daily commutes.",
     reviews: [
@@ -901,7 +901,7 @@ export const products = [
     productName: "Wireless Bass Headphones",
     imgUrl: wireless01,
     category: "wireless",
-    price: 149,
+    price: 1549,
     shortDesc: "Deep bass headphones with crystal clear sound quality.",
     description: "Perfect for bass lovers, offering immersive audio experience.",
     reviews: [
@@ -915,7 +915,7 @@ export const products = [
     productName: "Bluetooth Headphones",
     imgUrl: wireless04,
     category: "wireless",
-    price: 139,
+    price: 1339,
     shortDesc: "Affordable Bluetooth headphones with powerful bass and clear sound.",
     description: "Lightweight and comfortable, ideal for workouts and daily commutes.",
     reviews: [
@@ -929,7 +929,7 @@ export const products = [
     productName: "Wireless Bass Headphones",
     imgUrl: wireless01,
     category: "wireless",
-    price: 149,
+    price: 1449,
     shortDesc: "Deep bass headphones with crystal clear sound quality.",
     description: "Perfect for bass lovers, offering immersive audio experience.",
     reviews: [
@@ -943,7 +943,7 @@ export const products = [
     productName: "Bluetooth Headphones",
     imgUrl: wireless04,
     category: "wireless",
-    price: 139,
+    price: 1339,
     shortDesc: "Affordable Bluetooth headphones with powerful bass and clear sound.",
     description: "Lightweight and comfortable, ideal for workouts and daily commutes.",
     reviews: [
@@ -957,7 +957,7 @@ export const products = [
     productName: "Wireless Bass Headphones",
     imgUrl: wireless01,
     category: "wireless",
-    price: 149,
+    price: 1449,
     shortDesc: "Deep bass headphones with crystal clear sound quality.",
     description: "Perfect for bass lovers, offering immersive audio experience.",
     reviews: [
@@ -971,7 +971,7 @@ export const products = [
     productName: "Bluetooth Headphones",
     imgUrl: wireless04,
     category: "wireless",
-    price: 139,
+    price: 1339,
     shortDesc: "Affordable Bluetooth headphones with powerful bass and clear sound.",
     description: "Lightweight and comfortable, ideal for workouts and daily commutes.",
     reviews: [
@@ -985,7 +985,7 @@ export const products = [
     productName: "Wireless Bass Headphones",
     imgUrl: wireless01,
     category: "wireless",
-    price: 149,
+    price: 1449,
     shortDesc: "Deep bass headphones with crystal clear sound quality.",
     description: "Perfect for bass lovers, offering immersive audio experience.",
     reviews: [
@@ -999,7 +999,7 @@ export const products = [
     productName: "Bluetooth Headphones",
     imgUrl: wireless04,
     category: "wireless",
-    price: 139,
+    price: 1339,
     shortDesc: "Affordable Bluetooth headphones with powerful bass and clear sound.",
     description: "Lightweight and comfortable, ideal for workouts and daily commutes.",
     reviews: [
@@ -1013,7 +1013,7 @@ export const products = [
     productName: "Wireless Bass Headphones",
     imgUrl: wireless01,
     category: "wireless",
-    price: 149,
+    price: 1449,
     shortDesc: "Deep bass headphones with crystal clear sound quality.",
     description: "Perfect for bass lovers, offering immersive audio experience.",
     reviews: [
@@ -1027,7 +1027,7 @@ export const products = [
     productName: "Bluetooth Headphones",
     imgUrl: wireless04,
     category: "wireless",
-    price: 139,
+    price: 1339,
     shortDesc: "Affordable Bluetooth headphones with powerful bass and clear sound.",
     description: "Lightweight and comfortable, ideal for workouts and daily commutes.",
     reviews: [
@@ -1041,7 +1041,7 @@ export const products = [
     productName: "Wireless Bass Headphones",
     imgUrl: wireless01,
     category: "wireless",
-    price: 149,
+    price: 1449,
     shortDesc: "Deep bass headphones with crystal clear sound quality.",
     description: "Perfect for bass lovers, offering immersive audio experience.",
     reviews: [
@@ -1055,7 +1055,7 @@ export const products = [
     productName: "Bluetooth Headphones",
     imgUrl: wireless04,
     category: "wireless",
-    price: 139,
+    price: 1339,
     shortDesc: "Affordable Bluetooth headphones with powerful bass and clear sound.",
     description: "Lightweight and comfortable, ideal for workouts and daily commutes.",
     reviews: [
@@ -1069,7 +1069,7 @@ export const products = [
     productName: "Wireless Bass Headphones",
     imgUrl: wireless01,
     category: "wireless",
-    price: 149,
+    price: 1449,
     shortDesc: "Deep bass headphones with crystal clear sound quality.",
     description: "Perfect for bass lovers, offering immersive audio experience.",
     reviews: [
@@ -1083,7 +1083,7 @@ export const products = [
     productName: "Bluetooth Headphones",
     imgUrl: wireless04,
     category: "wireless",
-    price: 139,
+    price: 1339,
     shortDesc: "Affordable Bluetooth headphones with powerful bass and clear sound.",
     description: "Lightweight and comfortable, ideal for workouts and daily commutes.",
     reviews: [
@@ -1097,7 +1097,7 @@ export const products = [
     productName: "Wireless Bass Headphones",
     imgUrl: wireless01,
     category: "wireless",
-    price: 149,
+    price: 1449,
     shortDesc: "Deep bass headphones with crystal clear sound quality.",
     description: "Perfect for bass lovers, offering immersive audio experience.",
     reviews: [
@@ -1111,7 +1111,7 @@ export const products = [
     productName: "Gaming Headset Pro",
     imgUrl: wireless01,
     category: "gaming",
-    price: 179,
+    price: 1379,
     shortDesc: "Ultimate gaming headset with surround sound and noise cancellation.",
     description: "Experience lag-free audio and crystal-clear communication for gaming.",
     reviews: [
@@ -1125,7 +1125,7 @@ export const products = [
     productName: "Sports Earbuds",
     imgUrl: wireless01,
     category: "wireless",
-    price: 99,
+    price: 10999,
     shortDesc: "Sweat-resistant wireless earbuds for active lifestyles.",
     description: "Lightweight and secure fit, perfect for workouts and outdoor activities.",
     reviews: [
@@ -1139,7 +1139,7 @@ export const products = [
     productName: "Premium Over-Ear Headphones",
     imgUrl: wireless01,
     category: "wireless",
-    price: 229,
+    price: 35000,
     shortDesc: "Luxury over-ear headphones with studio-grade sound.",
     description: "Enjoy high-definition sound and premium comfort with noise isolation.",
     reviews: [
